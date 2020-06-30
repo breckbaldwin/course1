@@ -1,0 +1,5 @@
+#OSX
+.DS_store
+#Everyone else
+.txt
+.csv
