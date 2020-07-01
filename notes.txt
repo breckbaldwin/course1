@@ -1,0 +1,4 @@
+Notes:
+Unsaved files are deleted upon reload without warning when resetting memory allocation in Gear Button>Resources
+Confirmed, no warning message. 
+
