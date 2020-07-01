@@ -1,3 +1,4 @@
+
 parameters { 
   real<lower=0, upper=1> phi_probability_of_hit;  
 } 
