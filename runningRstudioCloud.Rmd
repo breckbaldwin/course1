@@ -1,0 +1,13 @@
+---
+title: "RunningRStudioCloud"
+output: html_document
+---
+
+# Basic Structure
+
+Link to class-1: https://rstudio.cloud/project/1430697
+
+Must click on 'make permanent' to keep around. 
+
+Student copies the teacher materials once. Modifications to the student copy do not chagne the teacher copy or visa versa once the copy has been made. 
+
