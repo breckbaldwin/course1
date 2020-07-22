@@ -14,3 +14,4 @@ git config --global user.name "Your Name"
 #longer term solution, have to follow above steps--not working yet
 git config remote.origin.url git@github.com:breckbaldwin/course1.git
 
+Testing updates.
