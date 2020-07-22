@@ -15,3 +15,4 @@ git config --global user.name "Your Name"
 git config remote.origin.url git@github.com:breckbaldwin/course1.git
 
 Testing updates.
+Test other direction.
